@@ -35,6 +35,10 @@ You’ll see a series of images showing iconic places in Bergamo and you must pi
 
 ## Getting started
 
+1. The site is hosted on render on https://bergamo-challenge.onrender.com
+
+Or if you wanna run it locally you can:
+
 1. Clone the repository
    ```bash
    gh repo clone Smatjoy/Bergamo-Challenge
