@@ -1,6 +1,6 @@
 # Bergamo Challenge
 
-**Bergamo Challenge** is an interactive quiz game that tests your knowledge of the picturesque city of Bergamo (Italy).  
+**[Bergamo Challenge]("https://bergamo-challenge.onrender.com")** is an interactive quiz game that tests your knowledge of the picturesque city of Bergamo (Italy).  
 You’ll see a series of images showing iconic places in Bergamo and you must pick the correct answer from **three** options.
 
 > School project developed for **ABCDigital** (http://www.abc-digital.org/), held in Bergamo during the **2023–2024** school year.
@@ -34,6 +34,10 @@ You’ll see a series of images showing iconic places in Bergamo and you must pi
 ---
 
 ## Getting started
+
+1. The site is hosted on render on https://bergamo-challenge.onrender.com
+
+Or if you wanna run it locally you can:
 
 1. Clone the repository
    ```bash
